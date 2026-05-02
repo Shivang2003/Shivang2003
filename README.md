@@ -6,7 +6,7 @@
 - 🌱 Currently exploring different technologies across backend, frontend, and systems
 
 ## Connect with Me
-- LinkedIn: https://linkedin.com/in/shivang-singh  
+- LinkedIn: [https://linkedin.com/in/shivang-singh  ](https://www.linkedin.com/in/shivang-singh-62a133238?trk=public_profile_browsemap&originalSubdomain=in)
 - Kaggle: https://kaggle.com/shivang2003  
 - LeetCode: https://leetcode.com/shivang2003 
 - GeeksforGeeks: https://www.geeksforgeeks.org/profile/shivangrc1n
